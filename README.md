@@ -1,6 +1,8 @@
 # 🩺 Diabetes Prediction Using Machine Learning
 
-Accurate and early prediction of diabetes is critical in preventing long-term complications and improving patient outcomes. This project leverages machine learning to develop an interpretable and accurate model for diabetes diagnosis using the **Pima Indians Diabetes Dataset**. ![Data](https://github.com/def-abraham/Projects/blob/main/Project%201/BloodGlucose%20Medium.jpeg?raw=true)
+Accurate and early prediction of diabetes is critical in preventing long-term complications and improving patient outcomes. This project leverages machine learning to develop an interpretable and accurate model for diabetes diagnosis using the **Pima Indians Diabetes Dataset**. 
+
+![Data](https://github.com/def-abraham/Projects/blob/main/Project%201/BloodGlucose%20Medium.jpeg?raw=true)
 
 ---
 
